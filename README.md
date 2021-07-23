@@ -1,4 +1,5 @@
 # Game
+alias Life is a game
 
 # Goal
 A public api to the world for everyone.
